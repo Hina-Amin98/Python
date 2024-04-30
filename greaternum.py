@@ -1,4 +1,4 @@
-a = 2
+a = 4
 b = 4
 if(a >= b):
  print("a is largest")
