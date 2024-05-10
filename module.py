@@ -1,0 +1,10 @@
+def population():
+    return 200000
+def restaurants():
+    return 50
+def literacyrate():
+    return 100
+def seasons():
+    return 4
+def collages():
+    return 20
